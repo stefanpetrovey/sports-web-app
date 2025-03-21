@@ -1,0 +1,90 @@
+﻿@model Sports.Models.Statistic
+
+@{
+    ViewData["Title"] = "Statistic Details";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistic Details</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .statistic-card {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 15px;
+        }
+
+        .back-link {
+            font-size: 1.2em;
+            text-decoration: none;
+            color: #456B58;
+        }
+
+            .back-link:hover {
+                color: #1f2d26;
+            }
+
+        .statistic-detail dt {
+            font-weight: bold;
+        }
+
+        .statistic-detail dd {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="card shadow border-0">
+        <div class="card-header text-white" style="background: #456B58">
+            <h2 class="mb-0">Statistic Details</h2>
+        </div>
+        <div class="card-body">
+            <h4>Statistic Information</h4>
+            <hr />
+            <div class="statistic-card">
+                <dl class="row statistic-detail">
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Team)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Team.Name)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Competition)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Competition.Name)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Value)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Value)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.StatisticType)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.StatisticType.Name)
+                    </dd>
+                </dl>
+            </div>
+            <div class="form-group d-flex gap-2">
+                <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary">Edit</a>
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>

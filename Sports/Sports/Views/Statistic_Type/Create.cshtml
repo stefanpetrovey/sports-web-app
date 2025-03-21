@@ -1,0 +1,104 @@
+﻿@model Sports.Models.Statistic_Type
+
+@{
+    ViewData["Title"] = "Add Statistic Type";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Statistic Type</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .add-card {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .add-title {
+            font-size: 1.5em;
+            margin-bottom: 20px;
+        }
+
+        .back-link {
+            font-size: 1.2em;
+            text-decoration: none;
+            color: #456B58;
+        }
+
+            .back-link:hover {
+                color: #1f2d26;
+            }
+
+        .form-group label {
+            font-weight: bold;
+        }
+
+        .form-group input {
+            border-radius: 8px;
+        }
+
+        .btn-primary {
+            background-color: #28a745;
+            border-color: #28a745;
+            font-size: 1.1em;
+        }
+
+            .btn-primary:hover {
+                background-color: #218838;
+                border-color: #1e7e34;
+            }
+
+        .marginForCreateButton {
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <div class="card add-card shadow border-0">
+            <div class="card-header" style="background: #456B58;">
+                <h2 class="text-white mb-0">Add New Statistic Type</h2>
+            </div>
+            <div class="card-body">
+                <h4 class="add-title">Create a New Statistic Type</h4>
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label"></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Order_Of_Appearence" class="control-label"></label>
+                        <input asp-for="Order_Of_Appearence" class="form-control" />
+                        <span asp-validation-for="Order_Of_Appearence" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Add" class="btn btn-primary" />
+                        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+</body>
+</html>

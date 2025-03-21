@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Sports.Models.Statistic>
+
+@{
+    ViewData["Title"] = "Statistic";
+}
+
+<h1>Statistic</h1>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Team</th>
+            <th>Competition</th>
+            @foreach (var statType in Model.Select(m => m.StatisticType).Distinct().OrderBy(st => st.Order_Of_Appearence))
+            {
+                <th>@statType.Name</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var teamGroup in Model.GroupBy(m => new { TeamName = m.Team.Name, CompetitionName = m.Competition.Name }))
+        {
+            <tr>
+                <td>@teamGroup.Key.TeamName</td>
+                <td>@teamGroup.Key.CompetitionName</td>
+                @foreach (var statType in Model.Select(m => m.StatisticType).Distinct().OrderBy(st => st.Order_Of_Appearence))
+                {
+                    <td>
+                        @teamGroup.FirstOrDefault(t => t.StatisticType.Id == statType.Id)?.Value
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-area="" asp-controller="Competitions" asp-action="Index" asp-route-id="@ViewBag.Id">Back To List</a>

@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Sports</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/myCss.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Sports.styles.css" asp-append-version="true" />
+    <style>
+        .navbaruu{
+            background-color: #0B3B23;
+        }
+        .first-one{
+            margin-left: 15px;
+        }
+        #sport-logo{
+            font-family: Impact;
+            font-size: 35px;
+            padding-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <link href="c:\users\mile\desktop\timskiproekt\timskiproekt\sports\sports\sports\views\shared\_layout.cshtml.css" rel="stylesheet" />
+    <a href="c:\users\mile\desktop\timskiproekt\timskiproekt\sports\sports\sports\views\shared\_layout.cshtml"></a>
+    <header>
+        <nav class="navbar navbar-light border-bottom box-shadow mb-3 px-5 navbaruu">
+            <div class="container-fluid nav-split">
+                <div class="first-one">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_4B7DXTajisn4E54FUDMaaw2G9gL2v5S5o_MhPmfaCCj_E-T" alt="" width="45" height="45" id="logo-image" />
+                    <a id="sport-logo" class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">Sports</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        @* <span class="navbar-toggler-icon"></span> *@
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse navbar-expand-sm d-sm-inline-flex justify-content-between second-one">
+                    <ul class="navbar-nav my-1 flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link btn btn-secondary btn-link mx-3 text-white" asp-area="" asp-controller="Competitions" asp-action="Index">Competitions</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link btn btn-secondary btn-link mx-3 text-white" asp-area="" asp-controller="Sports" asp-action="Index">Sport</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link btn btn-secondary btn-link mx-3 text-white" asp-area="" asp-controller="Teams" asp-action="Index">Team</a>
+                        </li>
+                        @if (this.User.IsInRole("Admin"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link btn btn-secondary btn-link mx-3 text-white" asp-area="" asp-controller="Statistics" asp-action="Index">Statistic</a>
+                            </li>
+                        }
+                        @if (this.User.IsInRole("Admin"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link btn btn-secondary btn-link mx-3 text-white" asp-area="" asp-controller="Statistic_Type" asp-action="Index">Statistic Type</a>
+                            </li>
+                        }
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - Sports 
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

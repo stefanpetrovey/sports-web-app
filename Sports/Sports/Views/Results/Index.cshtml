@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Sports.Models.Result>
+
+@{
+    ViewData["Title"] = "Result";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark px-4" style="background-color: #456B58;">
+        <div class="container">
+            <a class="navbar-brand" style="font-family:Impact;" href="#">Results</a>
+            <a asp-action="Create" asp-route-id1="@ViewBag.CompetitionId" asp-route-id2="@ViewBag.SportId" class="btn text-white" style="background-color: #0B3B23;">Add New</a>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.Team1)</th>
+                    <th>@Html.DisplayNameFor(model => model.Team2)</th>
+                    <th>@Html.DisplayNameFor(model => model.Team1Result)</th>
+                    <th>@Html.DisplayNameFor(model => model.Team2Result)</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Team1.Name)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Team2.Name)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Team1Result)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Team2Result)</td>
+                        <td class="text-end">
+                            <div class="d-flex justify-content-end gap-2">
+                                <a class="btn text-dark" style="background-color: #d9d9d9; border-color: #d9d9d9;" asp-action="Delete" asp-route-id1="@item.Id" asp-route-id2="@ViewBag.CompetitionId" asp-route-id3="@ViewBag.SportId">Delete</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <a asp-area="" asp-controller="Competitions" asp-action="Index" asp-route-id="@ViewBag.SportId" class="btn btn-secondary">Back To List</a>
+    </div>
+</body>
+</html>

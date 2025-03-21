@@ -1,0 +1,685 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\competitions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\competitions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\results\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\results\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\sports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\sports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\results\\createviewforcompetition.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\results\\createviewforcompetition.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\results\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\results\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\results\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\results\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\sports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\sports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\statistic_type\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistic_type\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\statistic_type\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistic_type\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\statistic_type\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistic_type\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\statistic_type\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistic_type\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\statistics\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistics\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\statistics\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistics\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\statistics\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistics\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\teams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\teams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\teams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\teams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\sports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\sports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\sports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\sports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\statistics\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistics\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\sports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\sports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\teams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\teams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\statistics\\indexforcompetitions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistics\\indexforcompetitions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\teams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\teams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\competitions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\competitions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\competitions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\competitions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\competitions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\competitions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\competitions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\competitions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\statistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\statistic_type\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistic_type\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\mile\\desktop\\timskiproekt\\timskiproekt\\sports\\sports\\sports\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Sports\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T12:08:26.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Sports\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Sports\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:07:19.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Sports\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Sports\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Sports\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Sports\\Index.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwD8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T21:04:50.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Competitions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Competitions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Competitions\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Competitions\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T01:25:47.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T00:41:17.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T00:41:30.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T00:41:39.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T23:47:24.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Results\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Results\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Results\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Results\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T17:39:59.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Sports\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T19:42:12.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Sports\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T19:42:13.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Results\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Results\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Results\\Create.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Results\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T21:01:16.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Results\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Results\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Results\\Delete.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Results\\Delete.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T21:01:27.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Sports\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Sports\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Sports\\Details.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Sports\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:21:11.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistic_Type\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Create.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistic_Type\\Create.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwEQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T00:02:00.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistic_Type\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Delete.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistic_Type\\Delete.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwEwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:55:14.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistic_Type\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Edit.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistic_Type\\Edit.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwFQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T00:00:07.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateViewForCompetition.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Results\\CreateViewForCompetition.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Results\\CreateViewForCompetition.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Results\\CreateViewForCompetition.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Results\\CreateViewForCompetition.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T00:59:22.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistics\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistics\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistics\\Delete.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistics\\Delete.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:52:38.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistics\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistics\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistics\\Details.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistics\\Details.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwFEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:52:03.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Sports\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Sports\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Sports\\Create.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Sports\\Create.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T21:04:14.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Teams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Teams\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Teams\\Edit.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Teams\\Edit.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:39:28.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistics\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistics\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistics\\Edit.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistics\\Edit.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:47:49.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Teams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Teams\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Teams\\Delete.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Teams\\Delete.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:42:20.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistic_Type\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Details.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistic_Type\\Details.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwEUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:55:27.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Sports\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Sports\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Sports\\Delete.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Sports\\Delete.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:24:12.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistics\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistics\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistics\\Create.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistics\\Create.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwE4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:53:15.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Sports\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Sports\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Sports\\Edit.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Sports\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T22:44:44.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Teams\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Teams\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Teams\\Details.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Teams\\Details.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwFIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:41:49.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Competitions\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Competitions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Competitions\\Create.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Competitions\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:35:32.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Competitions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Competitions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Competitions\\Delete.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Competitions\\Delete.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:34:49.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Competitions\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Competitions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Competitions\\Details.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Competitions\\Details.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:34:01.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Competitions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Competitions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Competitions\\Edit.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Competitions\\Edit.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:31:25.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IndexForCompetitions.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistics\\IndexForCompetitions.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistics\\IndexForCompetitions.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistics\\IndexForCompetitions.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistics\\IndexForCompetitions.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T18:01:40.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Teams\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Teams\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Teams\\Create.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Teams\\Create.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:42:49.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistic_Type\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistic_Type\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADQAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T18:01:45.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T19:59:19.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Teams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Teams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Teams\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Teams\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwCsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T17:57:25.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistics\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistics\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Statistics\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistics\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwD4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T18:01:37.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T19:59:25.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Program.cs",
+              "RelativeDocumentMoniker": "Sports\\Program.cs",
+              "ToolTip": "C:\\Users\\Mile\\Desktop\\TImskiProekt\\TimskiProekt\\Sports\\Sports\\Sports\\Program.cs",
+              "RelativeToolTip": "Sports\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T23:34:31.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

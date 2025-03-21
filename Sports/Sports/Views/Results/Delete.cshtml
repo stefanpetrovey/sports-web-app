@@ -1,0 +1,51 @@
+﻿@model Sports.Models.Result
+
+@{
+    ViewData["Title"] = "Delete Result";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delete Result</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+    </style>
+</head>
+<body>
+    <div class="card shadow border-0">
+        <div class="card-header text-white" style="background: #B22222">
+            <h2 class="mb-0">Delete Result</h2>
+        </div>
+        <div class="card-body">
+            <h3>Are you sure you want to delete this?</h3>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-3 fw-bold">@Html.DisplayNameFor(model => model.Team1)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Team1.Name)</dd>
+
+                <dt class="col-sm-3 fw-bold">@Html.DisplayNameFor(model => model.Team2)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Team2.Name)</dd>
+
+                <dt class="col-sm-3 fw-bold">@Html.DisplayNameFor(model => model.Team1Result)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Team1Result)</dd>
+
+                <dt class="col-sm-3 fw-bold">@Html.DisplayNameFor(model => model.Team2Result)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Team2Result)</dd>
+            </dl>
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="Id" />
+                <div class="d-flex gap-2">
+                    <input type="submit" value="Delete" class="btn btn-danger" />
+                    <a asp-action="Index" asp-route-id1="@ViewBag.CompetitionId" asp-route-id2="@ViewBag.SportId" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
