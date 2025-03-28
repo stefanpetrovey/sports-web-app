@@ -1,6 +1,6 @@
 # Sports Web application
 
-A simple web application for adding types of sports, competitions, teams, edit, delete, details buttons, created in ASP.NET.
+A simple web application for adding types of sports, competitions, teams, edit, delete, details buttons, created in **ASP.NET**.
 Here are some of the pages.
 ![Screenshot 2025-03-21 173142](https://github.com/user-attachments/assets/e71eaf93-6f9a-4de6-9d5c-3bc73f04e176)
 ![Screenshot 2025-03-21 173203](https://github.com/user-attachments/assets/91cdddfd-ef7c-4570-970f-cd1b3d457209)
